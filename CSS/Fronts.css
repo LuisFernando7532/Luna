@@ -1,0 +1,15 @@
+/* KGHAPPY */
+    @font-face{
+        font-family: "KGHAPPY";
+        src: url("../Fonts/KGHAPPY.ttf");
+    }
+/* Happy School */
+    @font-face{
+        font-family: "HappySchool";
+        src: url("../Fonts/HappySchool.ttf");
+    }
+/* Shakerato */
+    @font-face{
+        font-family: "Shakerato";
+        src: url("../Fonts/Shakerato.otf");
+    }
